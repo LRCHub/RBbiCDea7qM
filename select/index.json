@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "ブランコ",
+  "base_artist": "秋山黄色",
+  "createdAt": "2025-12-10T04:36:02.958690Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ブランコ",
+      "artist": "7!!",
+      "has_synced": true,
+      "path": "select/01_ブランコ_7!!.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ブランコ",
+      "artist": "SIAM SHADE",
+      "has_synced": true,
+      "path": "select/02_ブランコ_SIAM_SHADE.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ブランコ",
+      "artist": "乃木坂46",
+      "has_synced": true,
+      "path": "select/03_ブランコ_乃木坂46.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ブランコ",
+      "artist": "Kiroro",
+      "has_synced": true,
+      "path": "select/04_ブランコ_Kiroro.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ブランコ",
+      "artist": "SIAM SHADE",
+      "has_synced": false,
+      "path": "select/05_ブランコ_SIAM_SHADE.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ブランコ",
+      "artist": "乃木坂46",
+      "has_synced": true,
+      "path": "select/06_ブランコ_乃木坂46.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ブランコ",
+      "artist": "Do As Infinity",
+      "has_synced": true,
+      "path": "select/07_ブランコ_Do_As_Infinity.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ブランコ (House ver.)",
+      "artist": "Gen Hoshino",
+      "has_synced": true,
+      "path": "select/08_ブランコ_(House_ver.)_Gen_Hoshino.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ブランコ",
+      "artist": "秋山黄色",
+      "has_synced": false,
+      "path": "select/pl_01_ブランコ_秋山黄色.txt"
+    }
+  ]
+}
